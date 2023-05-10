@@ -9,7 +9,10 @@ for val in details:
     else:
         value=val
     mydict[token]=value
-print(mydict)
+
 for val in mydict:
     C[val]=mydict[val]
+    
+print(str)
+print(mydict)
 print(C)
